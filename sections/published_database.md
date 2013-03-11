@@ -1,7 +1,7 @@
 Published Database
 =======
 
-For the full XML representation of published database requests, [check out the data reference](data_reference.md#published_database).
+For the full XML representation of published database requests, [check out the data reference](data_reference.md#published-database).
 
 Get all published databases (for a list)
 --------------------------

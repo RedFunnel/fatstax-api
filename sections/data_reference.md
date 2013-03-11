@@ -40,7 +40,6 @@ Published Database
     <last-error nil="true"/>
     <notify-email nil="true"/>
     <total-rows type="integer">1006</total-rows>
-
     <updated-at type="datetime">2013-03-05T08:43:38-05:00</updated-at>
     <errors/>
     <status>complete</status>
@@ -61,7 +60,6 @@ Staged Database
     <last-error nil="true"/>
     <notify-email nil="true"/>
     <total-rows type="integer">1006</total-rows>
-
     <updated-at type="datetime">2013-03-05T08:43:38-05:00</updated-at>
     <errors/>
     <status>complete</status>

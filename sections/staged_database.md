@@ -1,7 +1,7 @@
 Staged Database
 =======
 
-For the full XML representation of stage database requests, [check out the data reference](data_reference.md#staged_database).
+For the full XML representation of stage database requests, [check out the data reference](data_reference.md#staged-database).
 
 Get all staged databases (for a list)
 --------------------------
