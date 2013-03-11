@@ -37,7 +37,6 @@ Your URL is determined by your catalog's subdomain and the server you use for ad
 API Endpoints
 -------------
 
-* [Account](https://github.com/RedFunnel/fatstax-api/blob/master/sections/account.md)
 * [Import](https://github.com/RedFunnel/fatstax-api/blob/master/sections/import.md)
 * [Published Database](https://github.com/RedFunnel/fatstax-api/blob/master/sections/published_database.md)
 * [Staged Database](https://github.com/RedFunnel/fatstax-api/blob/master/sections/staged_database.md)
